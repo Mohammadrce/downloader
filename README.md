@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nikzad-avasam/downloader/refs/heads/main/dl-icon.gif" width="400" alt="wide-2" />
+  <img src="warning.jpg" width="400" alt="wide-2" />
 </div>
 
+## ⚠️ به علت استقبال خیلی زیاد این ریپازیتوری در حال حاضر سنگین است لطفا از جایگزین آن در لینک پایین استفاده کنید :‌
+
+## 🔗 https://github.com/nikzad-avasam/UDL-2
+
+---
 
 🎬 برای دانلود ویدیوهای یوتیوب از این پروژه استفاده کنید :‌
 
@@ -93,6 +98,7 @@
 - شماره تماس : 09354887344
 - آیدی پشتیبانی در پیام رسان های ایرانی :‌ @ask_here
 - وب سایت : avasam.ir 
+
 
 
 
